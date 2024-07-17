@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277164865891",
+    "project_id": "login-register-771d1",
+    "storage_bucket": "login-register-771d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277164865891:android:c842dfffb0b94a881cfb56",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX0n4n1cKCSVtw5sWPFIX4dgz-4dsPTxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
